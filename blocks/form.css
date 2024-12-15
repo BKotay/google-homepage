@@ -49,6 +49,8 @@ fieldset__form {
   
   .submit__buttons {
     display: flex;
+    margin-left: 670px;
+    margin-top: 20px;
   }
   
   .search__button {
